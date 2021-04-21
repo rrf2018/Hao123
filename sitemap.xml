@@ -2,28 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/04/22/notes/Quick%20Start/</loc>
-    
-    <lastmod>2021-04-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/04/22/notes/my-first-blog/</loc>
-    
-    <lastmod>2021-04-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2021/04/10/my-first-blog/</loc>
-    
-    <lastmod>2021-04-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/404.html</loc>
     
     <lastmod>2021-04-21</lastmod>
     
@@ -68,13 +47,6 @@
   
   <url>
     <loc>http://example.com/tags/%E7%81%AB%E5%B8%81%E4%BA%A4%E6%98%93%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2021-04-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Import-1938/</loc>
     <lastmod>2021-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
