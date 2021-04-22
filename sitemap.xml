@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://wsbwsb.com/about/index.html</loc>
     
     <lastmod>2021-04-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/04/10/wsb%E7%81%AB%E5%B8%81%E4%BA%A4%E6%98%93%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AA%AC%E6%98%8E/</loc>
+    <loc>https://wsbwsb.com/2021/04/10/wsb%E7%81%AB%E5%B8%81%E4%BA%A4%E6%98%93%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AA%AC%E6%98%8E/</loc>
     
     <lastmod>2021-04-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/404.html</loc>
+    <loc>https://wsbwsb.com/404.html</loc>
     
     <lastmod>2021-04-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/04/19/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://wsbwsb.com/2021/04/19/%E5%85%B3%E4%BA%8E/</loc>
     
     <lastmod>2021-04-19</lastmod>
     
@@ -31,7 +31,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://wsbwsb.com/</loc>
     <lastmod>2021-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -39,21 +39,21 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E7%82%92%E5%B8%81%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://wsbwsb.com/tags/%E7%82%92%E5%B8%81%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2021-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%81%AB%E5%B8%81%E7%82%92%E5%B8%81%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://wsbwsb.com/tags/%E7%81%AB%E5%B8%81%E7%82%92%E5%B8%81%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2021-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%81%AB%E5%B8%81%E4%BA%A4%E6%98%93%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://wsbwsb.com/tags/%E7%81%AB%E5%B8%81%E4%BA%A4%E6%98%93%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2021-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -62,7 +62,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/</loc>
+    <loc>https://wsbwsb.com/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/</loc>
     <lastmod>2021-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
